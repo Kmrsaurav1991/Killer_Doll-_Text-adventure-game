@@ -8,6 +8,7 @@ There are below states
 1. Killer Doll 
 2. Back 4 Blood
 3. Death By Misadventure
+
 In all the above states there is some event or the other on the basis of which you have to react. 
 If you fail, you can play again.
 
